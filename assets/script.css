@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+  background-color: #ffe8d6;
+  align-items: center;
+  justify-self: center;
+  margin: 5px;
+}
+unemployment_chart {
+  justify-self: center;
+}
+
+h1 {
+  color: rgb(159, 55, 21);
+}
+h2,
+h3,
+h4,
+S h5,
+h6 {
+  color: rgb(26, 60, 171);
+  text-align: center;
+  font-size: 50;
+}
