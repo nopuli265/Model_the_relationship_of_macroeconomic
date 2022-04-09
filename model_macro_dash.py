@@ -1,5 +1,4 @@
 # import required packages
-from re import X
 import dash
 import pandas as pd 
 import matplotlib as mpl
